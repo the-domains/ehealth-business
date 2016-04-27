@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Spätestens seit der Vorstellung der Apple Watch im Jahr 2014 sind Wearables oder Wearable Devices in aller Munde. Fitnessarmbänder, Smartwatches und Google Glasses sind binnen kurzer Zeit zu Lifestyle-Accessoires avanciert, die mit Modernität, Fortschritt und einer bewussten Lebensweise in Verbindung gebracht werden. Die wenigsten Menschen jedoch wissen, welche Geräte warum der Kategorie „Wearable“ zuzuordnen sind und welche Potentiale noch in dem Technologiebereich Wearable Computing schlummern. Denn eines ist sicher: Die Entwicklung von „anziehbaren“ Computern befindet sich noch in den Kinderschuhen!'
-datePublished: '2016-04-27T13:03:57.021Z'
-dateModified: '2016-04-27T13:02:21.245Z'
+datePublished: '2016-04-27T13:05:29.452Z'
+dateModified: '2016-04-27T13:05:01.099Z'
 title: ''
 author:
   - name: ''
