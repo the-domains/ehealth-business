@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eHealth.Business]]></title>
-        <description><![CDATA[eHealth.Business]]></description>
+        <title><![CDATA[Blog]]></title>
+        <description><![CDATA[Blog]]></description>
         <link>https://thegrid.ai/ehealth-business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 12:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 12:54:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ehealth-business/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MC10]]></title>
             <description><![CDATA[<article><h1>MC10</h1><p>Spätestens seit der Vorstellung der Apple Watch im Jahr 2014 sind Wearables oder Wearable Devices in aller Munde. Fitnessarmbänder, Smartwatches und Google Glasses sind binnen kurzer Zeit zu Lifestyle-Accessoires avanciert, die mit Modernität, Fortschritt und einer bewussten Lebensweise in Verbindung gebracht werden. Die wenigsten Menschen jedoch wissen, welche Geräte warum der Kategorie „Wearable“ zuzuordnen sind und welche Potentiale noch in dem Technologiebereich Wearable Computing schlummern. Denn eines ist sicher: Die Entwicklung von „anziehbaren“ Computern befindet sich noch in den Kinderschuhen!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37b579eeb87b8a48d27f5cd3b4b879879fdfa12.jpg"></article>]]></description>
             <link>https://thegrid.ai/ehealth-business/was-sind-wearables/index.html</link>
             <guid isPermaLink="false">be964ee3-fc38-4731-a5a9-f7d0d713a549</guid>
-            <pubDate>Wed, 27 Apr 2016 12:43:23 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 12:54:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
