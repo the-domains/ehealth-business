@@ -2,6 +2,7 @@ name: eHealth.Business
 favicon: null
 layout_spectrum: 0.74323
 typography_spectrum: 0.80469
+title: Blog
 cta:
   domain: null
   bucket: null
