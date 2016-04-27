@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Spätestens seit der Vorstellung der Apple Watch im Jahr 2014 sind Wearables oder Wearable Devices in aller Munde. Fitnessarmbänder, Smartwatches und Google Glasses sind binnen kurzer Zeit zu Lifestyle-Accessoires avanciert, die mit Modernität, Fortschritt und einer bewussten Lebensweise in Verbindung gebracht werden. Die wenigsten Menschen jedoch wissen, welche Geräte warum der Kategorie „Wearable“ zuzuordnen sind und welche Potentiale noch in dem Technologiebereich Wearable Computing schlummern. Denn eines ist sicher: Die Entwicklung von „anziehbaren“ Computern befindet sich noch in den Kinderschuhen!'
-datePublished: '2016-04-27T13:00:19.913Z'
-dateModified: '2016-04-27T12:59:53.581Z'
-title: MC10
+datePublished: '2016-04-27T13:02:14.121Z'
+dateModified: '2016-04-27T13:02:06.017Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,8 +24,6 @@ url: was-sind-wearables/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37b579eeb87b8a48d27f5cd3b4b879879fdfa12.jpg)
-
 # Was sind Wearables?
 
 Spätestens seit der Vorstellung der Apple Watch im Jahr 2014 sind Wearables oder Wearable Devices in aller Munde. Fitnessarmbänder, Smartwatches und Google Glasses sind binnen kurzer Zeit zu Lifestyle-Accessoires avanciert, die mit Modernität, Fortschritt und einer bewussten Lebensweise in Verbindung gebracht werden. Die wenigsten Menschen jedoch wissen, welche Geräte warum der Kategorie „Wearable" zuzuordnen sind und welche Potentiale noch in dem Technologiebereich Wearable Computing schlummern. Denn eines ist sicher: Die Entwicklung von „anziehbaren" Computern befindet sich noch in den Kinderschuhen!
