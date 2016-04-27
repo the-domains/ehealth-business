@@ -1,7 +1,7 @@
 name: eHealth.Business
 favicon: null
-layout_spectrum: 0.7407589186914265
-typography_spectrum: 0.8084092370700091
+layout_spectrum: 0.74323
+typography_spectrum: 0.80469
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5725893361959606
-  lightness: 0.9490527641028166
-  saturation: 0.5453098404686898
-  rhythmicContrast: 0.08041313639841974
+    - '#ffffff'
+    - '#18b4cb'
+    - '#59a246'
+    - '#21637b'
+    - '#02161c'
+  brandStrength: 0.5625
+  lightness: 0.9375
+  saturation: 0.625
+  rhythmicContrast: 0
 purpose: []
