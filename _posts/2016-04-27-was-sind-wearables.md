@@ -1,42 +1,47 @@
 ---
+datePublished: '2016-08-31T10:24:46.048Z'
+sourcePath: _posts/2016-04-27-was-sind-wearables.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: 'Spätestens seit der Vorstellung der Apple Watch im Jahr 2014 sind Wearables oder Wearable Devices in aller Munde. Fitnessarmbänder, Smartwatches und Google Glasses sind binnen kurzer Zeit zu Lifestyle-Accessoires avanciert, die mit Modernität, Fortschritt und einer bewussten Lebensweise in Verbindung gebracht werden. Die wenigsten Menschen jedoch wissen, welche Geräte warum der Kategorie „Wearable“ zuzuordnen sind und welche Potentiale noch in dem Technologiebereich Wearable Computing schlummern. Denn eines ist sicher: Die Entwicklung von „anziehbaren“ Computern befindet sich noch in den Kinderschuhen!'
-datePublished: '2016-04-27T13:11:02.340Z'
-dateModified: '2016-04-27T13:09:30.979Z'
-title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-27-was-sind-wearables.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-08-31T10:24:45.475Z'
+title: ''
+publisher: {}
+description: >-
+  Spätestens seit der Vorstellung der Apple Watch im Jahr 2014 sind Wearables
+  oder Wearable Devices in aller Munde. Fitnessarmbänder, Smartwatches und
+  Google Glasses sind binnen kurzer Zeit zu Lifestyle-Accessoires avanciert, die
+  mit Modernität, Fortschritt und einer bewussten Lebensweise in Verbindung
+  gebracht werden. Die wenigsten Menschen jedoch wissen, welche Geräte warum der
+  Kategorie „Wearable“ zuzuordnen sind und welche Potentiale noch in dem
+  Technologiebereich Wearable Computing schlummern. Denn eines ist sicher: Die
+  Entwicklung von „anziehbaren“ Computern befindet sich noch in den
+  Kinderschuhen!
+inLanguage: null
+inNav: true
+via: {}
 starred: true
 url: was-sind-wearables/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5b90042-3ead-49a5-aeb5-2e7ffe181890.jpg)
-
-# Was sind Wearables?
-
 Spätestens seit der Vorstellung der Apple Watch im Jahr 2014 sind Wearables oder Wearable Devices in aller Munde. Fitnessarmbänder, Smartwatches und Google Glasses sind binnen kurzer Zeit zu Lifestyle-Accessoires avanciert, die mit Modernität, Fortschritt und einer bewussten Lebensweise in Verbindung gebracht werden. Die wenigsten Menschen jedoch wissen, welche Geräte warum der Kategorie „Wearable" zuzuordnen sind und welche Potentiale noch in dem Technologiebereich Wearable Computing schlummern. Denn eines ist sicher: Die Entwicklung von „anziehbaren" Computern befindet sich noch in den Kinderschuhen!
 
 > Dick Tracey und die Spionageuhr
 
-Bereits seit dem Dick Tracey Spionagecomic aus den 30er Jahren des letzten Jahrhunderts existiert der Traum von hybriden technischen Geräten, die neben ihrer Kernfunktion wie dem Anzeigen der Uhrzeit auch andere und weitaus komplexere Funktionen erfüllen können. So nutzte zum Beispiel der gerissene Detektiv Chester Gould seine Uhr zum telefonieren. Dementsprechend groß war das Interesse Smartwatches zu entwickeln, die in der Lage sind eigenständig oder in Verbindung mit dem Smartphone Telefongespräche durchzuführen, Nachrichten anzuzeigen oder Informationen mit dem Internet auszutauschen. Seit der Consumer Electronics Show (CES) in Texas im Jahr 2003 stellten die verschiedensten Hersteller von Sony Ericsson über Pebble und Casio bis hin zu Samsung und Apple nun Geräte vor, die genau dazu in der Lage waren. Die Phantasie einer Spionageuhr die telefonieren kann mag entzückend sein, wirklich innovativ ist die bloße Fernsteuerung des zu groß geratenen Smartphones aber nicht! Wirklich Smart an einer Smartwatch sind die Funktionen, die aus einer „Fernsteuerung" ein Wearable machen, das unser Leben verändert: Sensoren, die unsere Bewegungen und Vitaldaten messen. 
-> 
-> Wearable oder Portable Computing? 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6c60203c61ef14faf8babf7ca3f572fbd877e6.jpg)
 
-Die Zeiten, dass ein Computer ganze Industrieetagen füllt sind glücklicherweise längst vorbei und die meisten PCs sind heutzutage portabel oder besser tragbare Geräte. Vom integrierten Mac-Rechner, der seine gesamte Technologie hinter dem Bildschirm versteckt und ohne Weiteres transportiert werden kann, über Laptops mit enormen Rechen- und Akku-Kapazitäten bis hin zu Tablets, Smart- oder Feature-Phones: die meisten Computer der 2010er Jahre sind mobil! Wieso gibt es also Wearable Computing, ein eigenständiges IT-Forschungsgebiet, das sich mit Computern beschäftigt, die ebenfalls allesamt tragbar sind. Die einfachste Antwort versteckt sich wie so oft bereits im Namen: Diese Geräte sind nicht nur tragbar sondern „anziehbar". Während man jetzt einwenden könnte, dass diese Eigenschaft nur den Transport vereinfacht und sonst keinen Einfluss auf die Funktionsweise der Geräte hat, lohnt es sich, die Bedienung von Wearables näher zu beleuchten. Der eigentliche Mehrwert eines Wearables, egal ob Fitnessband, Smartwatch oder Brille, entsteht nämlich nicht durch die Benutzung des Computers selbst, sondern durch die Unterstützung des Nutzers durch den Computer bei einer Tätigkeit in der realen Welt. Oder einfacher gesagt, das Wearable möchte nicht bedient werden sondern reichert reale menschliche Handlungen mit digitalen Informationen an, um sie letztendlich zu beeinflussen. 
+# Was sind Wearables?
+
+Bereits seit dem Dick Tracey Spionagecomic aus den 30er Jahren des letzten Jahrhunderts existiert der Traum von hybriden technischen Geräten, die neben ihrer Kernfunktion wie dem Anzeigen der Uhrzeit auch andere und weitaus komplexere Funktionen erfüllen können. So nutzte zum Beispiel der gerissene Detektiv Chester Gould seine Uhr zum telefonieren. Dementsprechend groß war das Interesse Smartwatches zu entwickeln, die in der Lage sind eigenständig oder in Verbindung mit dem Smartphone Telefongespräche durchzuführen, Nachrichten anzuzeigen oder Informationen mit dem Internet auszutauschen. Seit der Consumer Electronics Show (CES) in Texas im Jahr 2003 stellten die verschiedensten Hersteller von Sony Ericsson über Pebble und Casio bis hin zu Samsung und Apple nun Geräte vor, die genau dazu in der Lage waren. Die Phantasie einer Spionageuhr die telefonieren kann mag entzückend sein, wirklich innovativ ist die bloße Fernsteuerung des zu groß geratenen Smartphones aber nicht! Wirklich Smart an einer Smartwatch sind die Funktionen, die aus einer „Fernsteuerung" ein Wearable machen, das unser Leben verändert: Sensoren, die unsere Bewegungen und Vitaldaten messen.
+
+> Wearable oder Portable Computing?
+
+Die Zeiten, dass ein Computer ganze Industrieetagen füllt sind glücklicherweise längst vorbei und die meisten PCs sind heutzutage portabel oder besser tragbare Geräte. Vom integrierten Mac-Rechner, der seine gesamte Technologie hinter dem Bildschirm versteckt und ohne Weiteres transportiert werden kann, über Laptops mit enormen Rechen- und Akku-Kapazitäten bis hin zu Tablets, Smart- oder Feature-Phones: die meisten Computer der 2010er Jahre sind mobil! Wieso gibt es also Wearable Computing, ein eigenständiges IT-Forschungsgebiet, das sich mit Computern beschäftigt, die ebenfalls allesamt tragbar sind. Die einfachste Antwort versteckt sich wie so oft bereits im Namen: Diese Geräte sind nicht nur tragbar sondern „anziehbar". Während man jetzt einwenden könnte, dass diese Eigenschaft nur den Transport vereinfacht und sonst keinen Einfluss auf die Funktionsweise der Geräte hat, lohnt es sich, die Bedienung von Wearables näher zu beleuchten. Der eigentliche Mehrwert eines Wearables, egal ob Fitnessband, Smartwatch oder Brille, entsteht nämlich nicht durch die Benutzung des Computers selbst, sondern durch die Unterstützung des Nutzers durch den Computer bei einer Tätigkeit in der realen Welt. Oder einfacher gesagt, das Wearable möchte nicht bedient werden sondern reichert reale menschliche Handlungen mit digitalen Informationen an, um sie letztendlich zu beeinflussen.
 
 (Nicht wir verändern die Welt mit Hilfe des Computers, sondern unser Verhalten und damit die Welt wird durch den Computer verändert.)
 
